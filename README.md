@@ -9,3 +9,13 @@ I am studying for my bachelors in emergency management and what I want to do wit
 **Method:** I used georefrencing, symbology, export layout. I also used attributes, and spatial tool ] 
 **A design choice I made and why:** I color coded each by using infrared dots to show the high ratings of covid 19 cases by area on the map.
 **A limitation of this map:**How long these cases lasted in the selected city.
+## RedliningEquity 
+![Historical redlining of neighborhoods](images/RedliningEquity.png) 
+**Question:** Historical redlining of neighborhoods that were graded poorly on home owners loan corporation.
+**Data:** Historical redlining
+**Method:** I used Georefrencing, adding data, symbology, transparency. I also used layout and exporting tool. 
+**A design choice I made and why:** Different colors to represent the historical redlining grades.
+**A limitation of this map:** Does not prove that historical redlining directly caused present day inequalities.  
+## Data sources - [redlining, Dean Vallejo, 2026,](https://github.com/Dvallejo1/Dvallejo1.github.io.)]
+## Where this is going 
+I want to continue to add more PNG shots of the maps that I continue to make in GIS class. I want to continue learning the different key points of making a map. I want to continue to learn how important maps are and really how you can do so much with making a map, to show true data of specific areas of the world. Working with technology and continuing showing everything I am capable of doing in this course. Continue to show improvement on everything that I have worked on throughout the semester. 
