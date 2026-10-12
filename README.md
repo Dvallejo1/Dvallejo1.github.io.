@@ -9,8 +9,8 @@ Covid 19 cases in the city of New York."<img width="950" height="330" alt="COVID
 **A design choice I made and why:** I used a [color scheme, e.g., “red-to-yellow gradient”] because it intuitively signals severity to a reader, with darker or more intense colors drawing the eye to the hardest-hit areas first. I also chose to classify the data by [natural breaks because the case rate distribution showed clear clusters rather than an even spread”], which better reflects the real differences between boroughs than an evenly divided scale would.
 **A limitation of this map:** This map shows case rates at a single point in time, so it can’t capture how the outbreak shifted week to week or show the underlying reasons for the disparities, like population density, access to testing, or healthcare infrastructure. It also can’t account for underreporting, which was a known issue early in the pandemic.
 ## Red Lining Equity
-RedLining Map [![<img width="705" height="330" alt="redliningMap" src="https://github.com/user-attachments/assets/2f153cec-6fda-41db-a1cf-e00857b8245c" />
-]()
+RedLining Map [[<img width="705" height="330" alt="redliningMap" src="https://github.com/user-attachments/assets/2f153cec-6fda-41db-a1cf-e00857b8245c" />
+]
 ]
 **Question:** Historical redlining of neighborhoods that were graded poorly on home owners loan corporation.
 **Data:** Historical redlining
