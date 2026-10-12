@@ -1,7 +1,7 @@
 # Dean Vallejo 
 I’m working toward my bachelor’s in Emergency Management at Moreno Valley College. I want to develop the GIS skills to build my own maps independently, so I can take complex spatial data and present it in a way that’s clear and useful to the public, not just to people trained to read maps. I’m always looking for ways to make that information easier for the average person to understand, especially now that I’m learning just how much data and technical work actually goes into a single map, and how long maps have been used as a critical tool for decision-making.
 ## Disease outbreak 
-Covid 19 cases in the city of New York."[<img width="950" height="330" alt="COVID19 PNG" src="https://github.com/user-attachments/assets/5f9f5996-f73b-4123-9be9-ca5c8b05f18f" />
+Covid 19 cases in the city of New York."<img width="950" height="330" alt="COVID19 PNG" src="https://github.com/user-attachments/assets/5f9f5996-f73b-4123-9be9-ca5c8b05f18f" />
 
 " 
 *Interactive version, live as of [October 2026]: (https://dvallejo1.github.io/Dvallejo1.github.io./)* 
