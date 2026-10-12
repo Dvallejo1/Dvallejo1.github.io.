@@ -1,7 +1,8 @@
 # Dean Vallejo 
 I’m working toward my bachelor’s in Emergency Management at Moreno Valley College. I want to develop the GIS skills to build my own maps independently, so I can take complex spatial data and present it in a way that’s clear and useful to the public, not just to people trained to read maps. Always thinking of ways to make work, less hard for the average person. Especially when getting into the tools and data of maps that I would have never guessed actually went into maps, especially what maps are utilized for, for decades. 
 ## Disease outbreak 
-Covid 19 cases in the city of New York."[images/Map.png](https://github.com/Dvallejo1/Dvallejo1.github.io./commit/2ccd6a642f8e860b91c6d8d3307bb3567a1a0da9#diff-86fdfc2584332c77e3338bb3e37e19079f45ce2cdc34b2d847274be39b8b3271)" 
+Covid 19 cases in the city of New York."[]<img width="950" height="310" alt="Map" src="https://github.com/user-attachments/assets/42f2c3be-d23a-40f6-8eae-ddb375046f73" />
+" 
 *Interactive version, live as of [October 2026]: (https://dvallejo1.github.io/Dvallejo1.github.io./)* 
 
 **Question:** The breakdown of cities within New York that have high covid19 cases
