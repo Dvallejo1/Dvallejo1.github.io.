@@ -10,8 +10,7 @@ Covid 19 cases in the city of New York."<img width="950" height="330" alt="COVID
 **A limitation of this map:** This map shows case rates at a single point in time, so it can’t capture how the outbreak shifted week to week or show the underlying reasons for the disparities, like population density, access to testing, or healthcare infrastructure. It also can’t account for underreporting, which was a known issue early in the pandemic.
 ## Red Lining Equity
 RedLining Map [[<img width="705" height="330" alt="redliningMap" src="https://github.com/user-attachments/assets/2f153cec-6fda-41db-a1cf-e00857b8245c" />
-]
-]
+
 **Question:** Historical redlining of neighborhoods that were graded poorly on home owners loan corporation.
 **Data:** Historical redlining
 **Method:** I used Georefrencing, adding data, symbology, transparency. I also used layout and exporting tool. 
