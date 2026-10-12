@@ -9,8 +9,8 @@ Covid 19 cases in the city of New York."[images/Map.png](https://github.com/Dval
 **Method:** I used georefrencing, symbology, export layout. I also used attributes, and spatial tool  
 **A design choice I made and why:** I color coded each by using infrared dots to show the high ratings of covid 19 cases by area on the map.
 **A limitation of this map:**How long these cases lasted in the selected city.
-## RedliningEquity 
-Historical redlining of neighborhoods(images/RedliningEquity.png) 
+## Kilauea Eruption 
+The Volcanic Eruption taken place in Hawaii. (Volcanic Kilauea.Screenshot.png) 
 **Question:** Historical redlining of neighborhoods that were graded poorly on home owners loan corporation.
 **Data:** Historical redlining
 **Method:** I used Georefrencing, adding data, symbology, transparency. I also used layout and exporting tool. 
