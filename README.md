@@ -10,7 +10,7 @@ Covid 19 cases in the city of New York."[images/Map.png](https://github.com/Dval
 **A design choice I made and why:** I color coded each by using infrared dots to show the high ratings of covid 19 cases by area on the map.
 **A limitation of this map:**How long these cases lasted in the selected city.
 ## Kilauea Eruption 
-The Volcanic Eruption taken place in Hawaii. (Volcanic Kilauea.Screenshot.png) 
+The Volcanic Eruption taken place in Hawaii. ([Volcanic Kilauea.Screenshot.png](https://github.com/Dvallejo1/Dvallejo1.github.io./blob/main/images/Volcano%20Kilaunea.%20Screenshot.png)) 
 **Question:** Historical redlining of neighborhoods that were graded poorly on home owners loan corporation.
 **Data:** Historical redlining
 **Method:** I used Georefrencing, adding data, symbology, transparency. I also used layout and exporting tool. 
